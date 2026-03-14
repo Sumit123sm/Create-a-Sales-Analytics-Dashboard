@@ -16,7 +16,7 @@ Click the icon below to explore the interactive dashboard.
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](Portfolio dashboard.png)
+![Sales Analytics Dashboard]([Portfolio dashboard.png](https://github.com/Sumit123sm/Create-a-Sales-Analytics-Dashboard/blob/main/Portfolio%20dashboard.png))
 
 ---
 
