@@ -9,16 +9,14 @@ The dashboard helps businesses track revenue trends, product performance, and re
 
 ## Dashboard Access
 
-Explore the complete interactive dashboard here:
+Click the icon below to explore the interactive dashboard.
 
-**View the Dashboard**
-https://app.powerbi.com/groups/me/reports/8a7ca5a0-cfdc-4c00-8169-10df3a4ad4ab/ReportSectionc90c14a1016c214a2a85?experience=power-bi
-
+[![View Power BI Dashboard](powerbi_icon.png)](https://app.powerbi.com/groups/me/reports/8a7ca5a0-cfdc-4c00-8169-10df3a4ad4ab/ReportSectionc90c14a1016c214a2a85?experience=power-bi)
 ---
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](sales_dashboard.png)
+![Sales Analytics Dashboard](Portfolio dashboard.png)
 
 ---
 
